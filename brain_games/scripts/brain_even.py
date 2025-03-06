@@ -1,10 +1,11 @@
 from brain_games.cli import welcome_user
-from brain_games.even import guess_even
+from brain_games.engine import finish_game
+from brain_games.games.even import guess_even
 
 
 def main():
     name = welcome_user()
-    guess_even(name)
+    finish_game(guess_even(), name)
 
 
 if __name__ == "__main__":
