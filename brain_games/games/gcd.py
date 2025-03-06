@@ -12,5 +12,5 @@ def guess_gcd():
         j = num2
         while i % j != 0:
             i, j = j, i % j
-        input.append((f'{num1}, {num2}', str(j)))
+        input.append((f'{num1} {num2}', str(j)))
     return play_game(input)
