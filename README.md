@@ -7,5 +7,5 @@
 ### Installation and Game of Evens:
 https://asciinema.org/a/7jirIWfRu55Ell1SdUvDplxwV
 
-### Calculatioins:
+### Calculations:
 https://asciinema.org/a/8bw3Fr6gFqATh1ubFkK6ODA2d
