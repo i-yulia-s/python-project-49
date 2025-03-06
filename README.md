@@ -11,4 +11,4 @@ https://asciinema.org/a/7jirIWfRu55Ell1SdUvDplxwV
 https://asciinema.org/a/8bw3Fr6gFqATh1ubFkK6ODA2d
 
 ### Greatest Common Divisor:
-https://asciinema.org/a/rPw5eWsZlb1ye1nHsXmZ4tlEG
+https://asciinema.org/a/fdJiFZXetl90S2KkmP0L0g48i
