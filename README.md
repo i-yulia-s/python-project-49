@@ -12,3 +12,6 @@ https://asciinema.org/a/8bw3Fr6gFqATh1ubFkK6ODA2d
 
 ### Greatest Common Divisor:
 https://asciinema.org/a/fdJiFZXetl90S2KkmP0L0g48i
+
+### Progression:
+https://asciinema.org/a/X4hx6qCZg5uSPH0YtJA4eebIA
