@@ -4,6 +4,7 @@ from brain_games.engine import play_game
 
 
 def guess_progression():
+    print('What number is missing in the progression?')
     input = []
     for i in range(0, 3):
         progression = [randrange(1, 50)]
