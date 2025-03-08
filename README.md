@@ -7,7 +7,7 @@ This is a set of simple math games:
 - Calculations: calculate the result of suggested expression
 - Greatest Common Divisor: find GCD of suggested numbers
 - Progression: find the number omitted from arithmetic progression
-- Primes' : guess if suggested number is a prime
+- Primes: guess if suggested number is a prime
 
 ### Commands
 
@@ -17,7 +17,7 @@ This is a set of simple math games:
 | brain-even            | Play 'Evens'                   |
 | brain-calc            | Play 'Calculations'            |
 | brain-gcd             | Play 'Greatest Common Divisor' |
-| brain-pro             | Play 'Progression'             |
+| brain-progression     | Play 'Progression'             |
 | brain-prime           | Play 'Primes'                  |
 
 ### Demos
