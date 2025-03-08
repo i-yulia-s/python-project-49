@@ -1,4 +1,5 @@
-from random import randrange, choice
+from random import randrange
+
 from brain_games.engine import play_game
 
 

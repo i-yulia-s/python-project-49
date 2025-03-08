@@ -3,10 +3,10 @@ import prompt
 
 def play_game(input):
     for i in range(0, 3):
-        question, expected_answer = input[i]
-        answer = prompt.string(f'Question: {question}\nYour answer: ')
-        if answer != expected_answer:
-            print(f"'{answer}' is wrong answer ;(. Correct answer was '{expected_answer}'.")
+        que, exp_a = input[i]
+        ans = prompt.string(f'Question: {que}\nYour answer: ')
+        if ans != exp_a:
+            print(f"'{ans}' is wrong answer ;(. Correct answer was '{exp_a}'.")
             return False
         else:
             print('Correct!')
