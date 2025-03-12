@@ -3,13 +3,13 @@ import prompt
 
 def play_game(input):
     for i in range(0, 3):
-        que, exp_a = input[i]
-        ans = prompt.string(f'Question: {que}\nYour answer: ')
-        if ans != exp_a:
-            print(f"'{ans}' is wrong answer ;(. Correct answer was '{exp_a}'.")
-            return False
-        else:
+        task, answer = input[i]
+        guess = prompt.string(f'Question: {task}\nYour answer: ')
+        if guess == answer:
             print('Correct!')
+            continue
+        print(f"'{guess}' is wrong answer ;(. Correct answer was '{answer}'.")
+        return False
     return True
 
 
