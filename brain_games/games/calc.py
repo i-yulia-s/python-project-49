@@ -10,6 +10,7 @@ def get_random_operation(n1, n2):
     operator = choice(["+", "-", "*"])
     return (f'{str(n1)} {operator} {str(n2)}', str(op_map[operator](n1, n2)))
 
+
 def guess_calc():
     print('What is the result of the expression?')
     input = []
