@@ -1,5 +1,6 @@
 from operator import add, mul, sub
 from random import choice, randrange
+
 from brain_games.engine import play_game
 
 
